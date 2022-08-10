@@ -10,3 +10,17 @@ h1 {
   font-size: 90px;
 }
 
+h2 {
+  text-align: center;
+  font-weight: 150;
+  font-family: Merriweather;
+  font-size: 70px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border: 8px solid rgb(16, 16, 121);
+}
+  
+
